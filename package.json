@@ -1,0 +1,9 @@
+{
+	"name": "zipkin-parentId-test",
+	"description": "Litte test for seneca-zipkin-tracer which will not pass parentSpanId through",
+	"author": "Matthias Endres",
+	"dependencies": {
+		"seneca": "^3.7.0",
+		"seneca-zipkin-tracer": "^0.2.0"
+	}
+}
